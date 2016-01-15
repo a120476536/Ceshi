@@ -19,6 +19,12 @@ import java.util.List;
 
 /**
  * RecyclerView 打造横向 listview
+ * @author 有点凉了
+ * QQ群：123869487
+ * 求基友共同进步，求大神入群指点
+ * 开个了淘宝店卖男士服装牛仔裤之流 大家有空看看啊，好不容易的都没啥流量，
+ *  http://qobn.taobao.com
+ *  谢谢
  */
 public class MainActivity extends Activity{
 
